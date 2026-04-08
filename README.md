@@ -1,5 +1,3 @@
-# DuckyScript-Library
-A collection of DuckyScript payloads designed for penetration testing, automated system administration, and HID security research. This repository explores the capabilities of USB injection attacks for educational purposes and security auditing.
 # 🦆 QuackAttack: Rubber Ducky Payload Library
 
 Benvenuti in **QuackAttack**, una raccolta curata di script e payload in **DuckyScript** per test di penetrazione, automazione di sistema e ricerca sulla sicurezza dei dispositivi HID (Human Interface Device).
