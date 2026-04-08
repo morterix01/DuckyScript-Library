@@ -34,7 +34,7 @@ I payload sono organizzati per sistema operativo e tipologia di attacco per una 
 
 ## 🛠️ Requisiti
 
-* **Hardware:** USB Rubber Ducky (Hak5), BadUSB (Digispark, Flipper Zero, Raspberry Pi Pico).
+* **Hardware:** USB Rubber Ducky (Hak5), BadUSB (Digispark, Flipper Zero, Raspberry Pi Pico) compatible with Proximity-Shark (https://github.com/morterix01/Proximity-Shark).
 * **Linguaggio:** DuckyScript 1.0 / 3.0.
 
 ---
@@ -49,6 +49,15 @@ Le contribuzioni sono le benvenute! Se hai un payload interessante o un migliora
 
 ---
 
-## 📜 Licenza
+## ⚠️ DISCLAIMER & USO ETICO
 
-Distribuito sotto Licenza MIT. Consulta il file `LICENSE` per maggiori dettagli.
+> **IMPORTANTE:** Questo repository e i file in esso contenuti sono creati **esclusivamente per scopi didattici, di studio e di ricerca sulla sicurezza informatica.**
+
+L'obiettivo principale di questo progetto è l'analisi delle vulnerabilità dei sistemi HID e la comprensione delle metodologie di difesa. Accedendo o utilizzando questo materiale, accetti implicitamente i seguenti punti:
+
+1. **Finalità Educativa:** Il materiale ha lo scopo di illustrare vulnerabilità tecniche e non intende in alcun modo incoraggiare o facilitare attività illecite o non autorizzate.
+2. **Esclusione di Responsabilità:** L'autore **non si assume alcuna responsabilità** per l'uso improprio, illegale o dannoso di questi script. Qualsiasi azione compiuta utilizzando il codice presente in questo repository è sotto la piena ed esclusiva responsabilità dell'utente finale.
+3. **Obbligo di Autorizzazione:** È severamente vietato utilizzare questi payload su computer, reti o dispositivi di cui non si possiede la proprietà legale o senza aver ottenuto un'espressa autorizzazione scritta dal legittimo proprietario (Ethical Hacking).
+4. **Garanzia:** Il codice viene fornito "così com'è" (**AS IS**), senza alcuna garanzia di funzionamento, affidabilità o sicurezza. L'utente si assume ogni rischio derivante dall'esecuzione degli script.
+
+---
