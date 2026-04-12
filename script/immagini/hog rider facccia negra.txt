@@ -1,9 +1,0 @@
-REM Author: @unveroleone | https://github.com/veroleone
-REM Description: OpenS any website on Adnroid phones (may not work for every phones).
-
-GUI b
-DELAY 700
-CTRL l
-DELAY 700
-STRING https://us-tuna-sounds-images.voicemod.net/e98b6c48-aadf-4ae0-98f5-644898a4c543-1707422192149.jpg
-ENTER
