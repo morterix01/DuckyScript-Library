@@ -1,0 +1,9 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Description: OpenS any website on Adnroid phones (may not work for every phones).
+
+GUI b
+DELAY 700
+CTRL l
+DELAY 700
+STRING https://cdn.discordapp.com/attachments/1038166287991459840/1038166401900347472/caption_6.gif?ex=69c6d44e&is=69c582ce&hm=1bef1e66acc6bfbf8f3c096292c08942904872afd02b8e25d3cd42691dae02e1
+ENTER
