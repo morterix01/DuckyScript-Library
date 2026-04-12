@@ -1,0 +1,9 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Description: OpenS any website on Adnroid phones (may not work for every phones).
+
+GUI b
+DELAY 700
+CTRL l
+DELAY 700
+STRING https://talkie.cdn.minimax.io/talkie-user-img/188363035021739/305801534001257.jpeg?x-oss-process=image/resize,w_512/format,webp
+ENTER
