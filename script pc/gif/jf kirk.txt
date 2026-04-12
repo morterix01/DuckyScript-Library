@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://tenor.com/it/view/jeffrey-epstein-epstein-trump-seriously-no-way-gif-4058260328757342819
+ENTER
+DELAY 1000
+F11

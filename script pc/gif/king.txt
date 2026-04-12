@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://cdn.discordapp.com/attachments/804427258579910669/1238483652694773820/8gd4rl.gif?ex=69c686c8&is=69c53548&hm=2f87498515e19fc548ecf82a57cedeb6e1e3b6c6cd92b6a9b8c970e07c97ce9c
+ENTER
+DELAY 1000
+F11

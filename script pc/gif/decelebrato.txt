@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://tenor.com/it/view/gumball-caveman-stupid-mango-gif-17657901353026407470
+ENTER
+DELAY 1000
+F11

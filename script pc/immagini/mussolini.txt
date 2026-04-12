@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://i1.wp.com/www.associazione-memento.org/wp-content/uploads/2017/01/Benito_Mussolini_colored.jpg?resize=742%2C1100
+ENTER
+DELAY 1000
+F11

@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://talkie.cdn.minimax.io/talkie-user-img/188363035021739/305801534001257.jpeg?x-oss-process=image/resize,w_512/format,webp
+ENTER
+DELAY 1000
+F11

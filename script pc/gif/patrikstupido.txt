@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://tenor.com/it/view/spongebob-spongebob-meme-patrick-patrick-star-gif-12989615779010846288
+ENTER
+DELAY 1000
+F11

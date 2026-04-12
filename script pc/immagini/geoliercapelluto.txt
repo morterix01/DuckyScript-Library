@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://www.gelestatic.it/thimg/8ygdj9SD1gWrL43mhDbO6orTlKo=/fit-in/590x332/https://www.repstatic.it/content/localirep/img/rep-napoli/2024/02/10/174238270-9b24ff6c-eddf-4f74-8462-2617f03bda61.jpg
+ENTER
+DELAY 1000
+F11

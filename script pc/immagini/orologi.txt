@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSChap2YDTaWXWn0UbqF_55jqbUmoEgD5XWAXVLwuxQCJ2QaoXG
+ENTER
+DELAY 1000
+F11

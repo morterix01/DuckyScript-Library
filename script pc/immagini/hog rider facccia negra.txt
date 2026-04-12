@@ -1,0 +1,10 @@
+REM Author: weblimanou
+REM Description: launch a fullscreen image or gif
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://us-tuna-sounds-images.voicemod.net/e98b6c48-aadf-4ae0-98f5-644898a4c543-1707422192149.jpg
+ENTER
+DELAY 1000
+F11
